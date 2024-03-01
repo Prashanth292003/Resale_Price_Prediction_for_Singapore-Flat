@@ -1,4 +1,2 @@
-streamlit
-Pillow    
-scikit-learn==1.2.2   
-pandas  
+streamlit   
+scikit-learn  
